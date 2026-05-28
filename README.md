@@ -10,22 +10,6 @@
   ---
 </div>
 
-## 📺 See It In Action
-
-**Image Analysis:**
-
-<video controls width="700">
-  <source src="frontend/public/demos/shadow_image_test.mp4" type="video/mp4">
-</video>
-
-**Video Analysis:**
-
-<video controls width="700">
-  <source src="frontend/public/demos/shadow_demo.mp4" type="video/mp4">
-</video>
-
----
-
 ## 📸 Screenshots
 
 **Landing Page:**
