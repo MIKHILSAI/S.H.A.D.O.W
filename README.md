@@ -14,11 +14,15 @@
 
 **Image Analysis:**
 
-<video src="frontend/public/demos/shadow_image_test.mp4" alt="Image Analysis" />
+<video controls width="700">
+  <source src="frontend/public/demos/shadow_image_test.mp4" type="video/mp4">
+</video>
 
 **Video Analysis:**
 
-<video src="frontend/public/demos/shadow_demo.mp4" alt="Video Analysis" />
+<video controls width="700">
+  <source src="frontend/public/demos/shadow_demo.mp4" type="video/mp4">
+</video>
 
 ---
 
