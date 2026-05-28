@@ -14,11 +14,11 @@
 
 **Image Analysis:**
 
-[https://github.com/frontend/public/demos/shadow_image_test.mp4]
+<video src="frontend/public/demos/shadow_image_test" alt="Image Analysis" />
 
 **Video Analysis:**
 
-https://github.com/frontend/public/demos/shadow_demo.mp4
+<video src="frontend/public/demos/shadow_demo" alt="Video Analysis" />
 
 ---
 
