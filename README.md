@@ -14,11 +14,11 @@
 
 **Image Analysis:**
 
-https://github.com/user-attachments/assets/shadow_image_test.mp4
+https://github.com/frontend/public/demos/shadow_image_test.mp4
 
 **Video Analysis:**
 
-https://github.com/user-attachments/assets/shadow_demo.mp4
+https://github.com/frontend/public/demos/shadow_demo.mp4
 
 ---
 
@@ -94,7 +94,7 @@ python -m venv venv
 # On Windows:
 venv\Scripts\activate
 # On macOS/Linux:
-# source venv/bin/activate
+source venv/bin/activate
 pip install -r requirements.txt
 uvicorn main:app --reload
 ```
