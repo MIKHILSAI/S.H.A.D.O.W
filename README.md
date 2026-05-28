@@ -14,7 +14,7 @@
 
 **Image Analysis:**
 
-https://github.com/frontend/public/demos/shadow_image_test.mp4
+[https://github.com/frontend/public/demos/shadow_image_test.mp4]
 
 **Video Analysis:**
 
