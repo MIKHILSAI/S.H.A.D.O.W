@@ -175,14 +175,6 @@ MAX_FILE_SIZE=52428800
 - The `models_cache/` and `uploads/` directories are gitignored
 - Results are probabilistic and should be combined with human judgment
 
-## Limitations
-
-This tool provides probabilistic assessments, not definitive proof. Results should be used alongside:
-- Contextual analysis
-- Source verification
-- Chain of custody validation
-- Expert human judgment
-
 ## Contributing
 
 PRs welcome. Please test locally before submitting.
