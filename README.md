@@ -64,7 +64,7 @@ S.H.A.D.O.W (Synthetic Human Audio-Visual Observation & Warning) analyzes media 
 ### Prerequisites
 
 - Node.js 18+
-- Python 3.10+
+- Python 3.11
 
 ### Installation
 
